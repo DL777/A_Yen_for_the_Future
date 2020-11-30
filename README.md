@@ -32,6 +32,6 @@ Following this, the volatility of the CADJPY exchange rate was modelled as GARCH
 
 In the **Linear Regression** part of the analysis, the CADJPY exchange rate daily returns were regressed on their one-period lagged values. The model produced a poor fit with R^2 of 0. Also, quite unexpectedly, the model had a better the out-of-sample performance then the in-sample performance.
 
-# Conlclusion
+# Conclusion
 
 While the results produced by the Time Series models are promising, a further model optimization is required before they can be implemented for trading. 
